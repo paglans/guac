@@ -3,3 +3,4 @@
 - salt
 - tomatoes (noooooo!)
 - lime juice
+- cilantro
